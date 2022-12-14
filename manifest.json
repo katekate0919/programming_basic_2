@@ -13,7 +13,7 @@
             "css": ["mystyle.css"]
         },
         {
-            "matches": ["https://www.kobe-u.ac.jp/*"],
+            "matches": ["https://www2.kobe-u.ac.jp/~tnishida/programming/*"],
             "js": ["change_word.js"]
         },
         {
