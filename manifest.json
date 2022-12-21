@@ -17,8 +17,8 @@
             "js": ["change_word.js"]
         },
         {
-            "matches": ["https://ja.wikipedia.org/wiki/*"],
-            "js": ["not_believe_wikipedia.js"]
+            "matches": ["https://search.rakuten.co.jp/search/mall/*"],
+            "js": ["chaos_market.js"]
         }
     ]
 }
